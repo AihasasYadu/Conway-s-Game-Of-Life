@@ -1,0 +1,6 @@
+A 6x6 grid representation based on Conway's Game of Life Theory
+The Black Block represents Alive cell while the White Block represents Dead cell.
+Click on any block/button in the initial stage only to change their state from dead to alive or vice-versa
+Press 'Enter' to jump to the next generation
+Press 'R' to reset the game layout
+Click anywhere outside the grid to see the selected cells properly.
